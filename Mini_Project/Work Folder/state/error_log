@@ -1,0 +1,20 @@
+[01-Oct-2020 23:45:56 Asia/Kolkata] PHP Parse error:  Invalid numeric literal in /home/watertank/public_html/homs/template.inc.php on line 284
+[01-Oct-2020 23:55:36 Asia/Kolkata] PHP Parse error:  Invalid numeric literal in /home/watertank/public_html/homs/template.inc.php on line 284
+[02-Oct-2020 00:07:46 Asia/Kolkata] PHP Parse error:  Invalid numeric literal in /home/watertank/public_html/homs/template.inc.php on line 284
+[08-Nov-2020 16:43:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/sales_entry.php on line 457
+[08-Nov-2020 16:45:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/sales_entry.php on line 457
+[10-Nov-2020 10:18:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/district-orders.php on line 193
+[10-Nov-2020 10:18:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/district-orders.php on line 250
+[24-Dec-2020 16:07:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function head_part_home() in /home/watertank/public_html/homs/state/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/watertank/public_html/homs/state/index.php on line 19
+[28-Dec-2020 11:48:05 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/state/order_slip.php on line 186
+[28-Dec-2020 11:48:05 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/state/order_slip.php on line 186
+[28-Dec-2020 11:48:05 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/order_slip.php on line 188
+[06-Jan-2021 14:47:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/order_allstat.php on line 287
+[06-Jan-2021 14:52:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/order_allstat.php on line 287
+[06-Jan-2021 15:09:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/order_allstat.php on line 287
+[06-Jan-2021 15:10:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/order_allstat.php on line 287
+[06-Jan-2021 16:34:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/order_allstat.php on line 287
+[06-Jan-2021 16:57:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/state/order_allstat.php on line 287

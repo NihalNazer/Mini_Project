@@ -1,0 +1,40 @@
+[01-Jan-2021 13:14:00 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 13:14:00 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 13:14:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 13:14:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 13:14:30 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 13:14:30 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 13:14:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 13:14:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 13:40:00 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 13:40:00 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 13:40:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 13:40:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 13:54:30 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 13:54:30 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 13:54:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 13:54:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 14:13:45 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 14:13:45 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 14:13:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 14:13:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 14:28:15 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 14:28:15 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 14:28:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 14:28:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 14:29:00 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 14:29:00 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 14:29:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 14:29:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 17:29:31 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 17:29:31 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 17:29:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 17:29:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 17:30:01 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 17:30:01 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 17:30:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 17:30:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233
+[01-Jan-2021 17:36:31 Asia/Kolkata] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 17:36:31 Asia/Kolkata] PHP Warning:  mysqli_query(): Error reading result set's header in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 201
+[01-Jan-2021 17:36:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 202
+[01-Jan-2021 17:36:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/mgmt/campaign-summary.php on line 233

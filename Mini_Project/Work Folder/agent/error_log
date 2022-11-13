@@ -1,0 +1,5 @@
+[10-Nov-2020 17:43:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/agent/product-orders.php on line 103
+[10-Nov-2020 17:44:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/agent/product-orders.php on line 91
+[10-Nov-2020 17:44:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/agent/product-orders.php on line 103
+[10-Nov-2020 17:44:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/agent/product-orders.php on line 282
+[10-Nov-2020 17:44:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/watertank/public_html/homs/agent/product-orders.php on line 308
