@@ -98,7 +98,7 @@ if (isset($_COOKIE['homsusername'])) {
     <div class="login-box">
       <div class="login-logo">
         <a href="../index.php">
-        <img src="../profile/LOGO.gif"/>
+        <img src="../profile/LOGO.png"/>
         </a>
       </div><!-- /.login-logo -->
       <div class="login-box-body">

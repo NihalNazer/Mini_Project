@@ -91,7 +91,6 @@ if(isset($_POST["btnSubmit"]))
                     Password Changed Succesfully ....
                   </div>";
 				  $currentPass= $newPass= $confirmPass ='';
- 
 			}
 			else
 			{

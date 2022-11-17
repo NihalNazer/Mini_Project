@@ -111,6 +111,10 @@ require_once("class/user.php");
 	 <!-- Main Header -->
       <header class="main-header">
 
+      <a href=" ">
+        <img src="../profile/LOGO1.png"/>
+        </a>
+
         <!-- Logo -->
         
    

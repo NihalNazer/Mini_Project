@@ -1,5 +1,5 @@
 <?php include("../config/conn.php"); ?>
-<?php
+<?php error_reporting (E_ALL^E_NOTICE);
 //validation for admin page;
 if(!isset($_SESSION['homsuser']) || !isset($_SESSION['homsutype']) ||($_SESSION['homsutype']!=1))
 {
