@@ -87,7 +87,7 @@ else
             <div class="col-xs-12">
               <h2 class="page-header">
                 <i class="fa fa-shopping-cart"></i> Invoice | 
-                HANBAZ <i><small style="color: #f00;">Rejected by <?php echo $agent.' (Reason:'.($reason).")"; ?> </small></i> 
+                TEST <i><small style="color: #f00;">Rejected by <?php echo $agent.' (Reason:'.($reason).")"; ?> </small></i> 
                 
                 <small class="pull-right">Date: <?php echo date("d/m/Y", strtotime($rowLead["date"])); ?></small>
               </h2>
@@ -98,14 +98,12 @@ else
             <div class="col-sm-4 invoice-col">
               From
               <address>                 
-                <strong>EUROTECH POLYMERS</strong><br>
-                INDUSTRIAL DEVELOPMENT PLOT<br/>
+              <strong>TEST</strong><br>
+                PALAKKAD DISTRICT - KERALA<br/>
                 GOVERNMENT INDUSTRY CENTRE<br>
-                PARAKKULAM - ANAKKARA P.O<br>
-                PALAKKAD DISTRICT - KERALA<br>
                	INDIA 679551<br>
-                <strong>Tel: +91 8086 833030</strong><br>
-                E-mail: info@hanbaz.com<br>
+                <strong>Tel: +91 8086 80000</strong><br>
+                E-mail: info@test.com<br>
                 
               </address>
             </div><!-- /.col -->

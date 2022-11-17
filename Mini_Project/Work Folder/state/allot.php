@@ -209,7 +209,7 @@ echo "(".no_to_words($pay)." Rupees Only)";
                 
                  
                 <center><small>
-                If you have any questions, feel free mail to <b>info@hanbaz.com </b> 
+                If you have any questions, feel free mail to <b>info@test.com </b> 
                 </small></center>
                 
              

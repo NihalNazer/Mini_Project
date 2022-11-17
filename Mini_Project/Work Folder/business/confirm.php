@@ -122,14 +122,12 @@ else
 					?>
                 
                   
-                <strong>EUROTECH POLYMERS</strong><br>
-                INDUSTRIAL DEVELOPMENT PLOT<br/>
+                <strong>TEST</strong><br>
+                PALAKKAD DISTRICT - KERALA<br/>
                 GOVERNMENT INDUSTRY CENTRE<br>
-                PARAKKULAM - ANAKKARA P.O<br>
-                PALAKKAD DISTRICT - KERALA<br>
                	INDIA 679551<br>
-                <strong>Tel: +91 8086 833030</strong><br>
-                E-mail: info@hanbaz.com<br>
+                <strong>Tel: +91 8086 80000</strong><br>
+                E-mail: info@test.com<br>
                 <?php
 				}
 				?>
